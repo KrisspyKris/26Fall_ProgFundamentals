@@ -1,7 +1,7 @@
 #List of characters that'll will considered invalid.
 invalidcharacters = [
         #v Instead of quotation marks, uses apostrophes to avoid an error when storing quotation marks.
-    "!", '"', "#", "$", "%", "&", "(", ")", "*", "+", ",", "-", ".", "/", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9",
+    "!", '"', "#", "$", "%", "&", "(", ")", "*", "+", ",", ".", "/", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9",
     ":", ";", "<", "=", ">", "?", "@", "[", "\\", "]", "^", "_", "`", "{", "|", "]", "~",
     ]                                        #^Uses two backslashes because \ is the escape character, and will make the program
 #think the following quotation marks and commas are part of the same string. Two backslashes stops the escape and results in a string with only one backslash.
