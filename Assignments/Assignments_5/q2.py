@@ -4,12 +4,6 @@ def rectangle_stats(length, width):
     perimeter = (2 * length) + (2 * width)
     return area, perimeter #Returns two numbers
 
-def str_to_floats(input:str):
-    split_input = input.split(" ", 1) #Splits the input string at the first space and puts both strings into a list.
-    try:                             #Attempts to convert the two elements of the list into floats.
-        return float(split_input[0]), float(split_input[1])
-    except:                          #Returns False instead of crashing if the strings cannot become floats.
-        return False          
 #First time the user is prompted for input
 user_input = input(
     "Please enter two numbers separated by one space to define a rectangle's lenght and width.\n" +
@@ -17,11 +11,13 @@ user_input = input(
                    )
 #Main while loop, done so the program can endlessly prompt the user again until a valid input is given.
 while True:
-    if str_to_floats(user_input) == False: #Prompts the user for input again if the last input was invalid.
-        user_input = input("Invalid input, please try again:\n")
-    else:
-        length, width = str_to_floats(user_input) #Puts the output of str_to_floats into two variables if the input was valid.
+    split_input = user_input.split(" ", 1) #Splits the input string at the first space and puts both strings into a list.
+    try:
+        length, width = float(split_input[0]), float(split_input[1]) #Tries to turn the split strings into floats.
+#If the float functions succeeds:
         area, perimeter = rectangle_stats(length, width) #Puts the output of rectangle_stats into two variables.
         print("Area: {:.2f}, Perimeter: {:.2f}".format(area, perimeter)) #Prints the area and perimeters after rounding, then closes the program.
         break
+    except:
+        user_input = input("Invalid input, please try again:\n") #Prompts the user for input again instead of crashing if the user input could not be split into floats.
     
