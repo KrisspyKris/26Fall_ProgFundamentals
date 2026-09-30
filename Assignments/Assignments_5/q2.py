@@ -6,7 +6,7 @@ def rectangle_stats(length, width):
 
 #First time the user is prompted for input
 user_input = input(
-    "Please enter two numbers separated by one space to define a rectangle's lenght and width.\n" +
+    "Please enter two numbers separated by one space to define a rectangle's length and width.\n" +
     "Example: 7 4\n"
                    )
 #Main while loop, done so the program can endlessly prompt the user again until a valid input is given.
