@@ -1,0 +1,291 @@
+Hello, welcome to Oops All Poison. Can I get a name for your order?: Kris
+Alright Kris, how can we slightly poison you today?
+Are you a rewards member? (yes (or y)/ no (or n): potato
+Yes or No?: y
+Options:
+1: Show Menu
+2: Add Item to cart
+3: Remove item from cart
+4: View Cart
+5: Checkout
+6: Cancel Order
+Please select an option (1-6): 1
+
+Menu:
+32 ounces of espresso: $64.00
+Description: Provides a MASSIVE energy boost! Great for preparing for a big day, or sending you to the hospital so you have an excuse to skip out on said big day.
+
+cafe au poisson: $3.50
+Description: Authentic French coffee! Nothing's fishy about this item!
+
+turkey sandwich: $4.25
+Description: Fresh turkey sandwiches, locally sourced from the nearest hospital.
+
+turkey* sandwich*: $5.25
+Description: Fresh* turkey* sandwiches*, locally* sourced* from* the* nearest* hospital*.
+
+s. potion: $2.50
+Description: ITEM ITEM AFFECTS HP A LOT! THE SMOOTH TASTE OF
+
+misery meat: $6.00
+Description: Meat that's guarunteed to induce a miserable experience.
+
+mystery meat: $6.00
+Description: Meat that's guarunteed to induce an experience.
+
+deuterium oxide: $785.50
+Description: It's just like water, but all the hydrogen atoms have an extra neutron, which obviously makes it better. Ethically sourced and zero sugar!
+WARNING: ONLY ONE EIGHT OUNCE CUP PER CUSTOMER PER DAY. MORE THAN THAT COULD CAUSE US (even more) LEGAL TROUBLE.
+
+
+Options:
+1: Show Menu
+2: Add Item to cart
+3: Remove item from cart
+4: View Cart
+5: Checkout
+6: Cancel Order
+Please select an option (1-6): 5
+You don't have anything in your cart, goober.
+
+Options:
+1: Show Menu
+2: Add Item to cart
+3: Remove item from cart
+4: View Cart
+5: Checkout
+6: Cancel Order
+Please select an option (1-6): 2
+What from the menu would you like to add?: 32 ounces of espresso
+Please select how many of this item you want. Enter 0 to cancel: 32
+Added 32 32 ounces of espresso(s) to your cart.
+
+Options:
+1: Show Menu
+2: Add Item to cart
+3: Remove item from cart
+4: View Cart
+5: Checkout
+6: Cancel Order
+Please select an option (1-6): 2
+What from the menu would you like to add?: turkey* sandwich*
+Please select how many of this item you want. Enter 0 to cancel: 3
+Added 3 turkey* sandwich*(s) to your cart.
+
+Options:
+1: Show Menu
+2: Add Item to cart
+3: Remove item from cart
+4: View Cart
+5: Checkout
+6: Cancel Order
+Please select an option (1-6): 2
+What from the menu would you like to add?: turkey sandwicH
+Please select how many of this item you want. Enter 0 to cancel: 1
+Added 1 turkey sandwich(s) to your cart.
+
+Options:
+1: Show Menu
+2: Add Item to cart
+3: Remove item from cart
+4: View Cart
+5: Checkout
+6: Cancel Order
+Please select an option (1-6): 2
+What from the menu would you like to add?: DEUTERIUM OXIDE
+Are you sure you want to add one cup of Deuterium Oxide? Only one per customer. (y/n): no
+Nothing was added to your order.
+
+Options:
+1: Show Menu
+2: Add Item to cart
+3: Remove item from cart
+4: View Cart
+5: Checkout
+6: Cancel Order
+Please select an option (1-6): 2
+What from the menu would you like to add?: DEuterium oxIDE
+Are you sure you want to add one cup of Deuterium Oxide? Only one per customer. (y/n): yes
+Added 1 deuterium oxide(s) to your cart.
+
+Options:
+1: Show Menu
+2: Add Item to cart
+3: Remove item from cart
+4: View Cart
+5: Checkout
+6: Cancel Order
+Please select an option (1-6): 2
+What from the menu would you like to add?: DEuterium oxide
+Sorry, only one per customer.
+Nothing was added to your order.
+
+Options:
+1: Show Menu
+2: Add Item to cart
+3: Remove item from cart
+4: View Cart
+5: Checkout
+6: Cancel Order
+Please select an option (1-6): 4
+
+--- YOUR ORDER ---
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+turkey* sandwich*: $5.25
+turkey* sandwich*: $5.25
+turkey* sandwich*: $5.25
+turkey sandwich: $4.25
+deuterium oxide: $785.50
+Items: 37
+
+Options:
+1: Show Menu
+2: Add Item to cart
+3: Remove item from cart
+4: View Cart
+5: Checkout
+6: Cancel Order
+Please select an option (1-6): 3
+Please select an item from your cart: turkey* sandwich*
+How many turkey* sandwich*s would you like to remove? Type 0 to cancel: 4
+Please enter a number 0-3: 2
+Removed 2 turkey* sandwich*(s) from your cart.
+Options:
+1: Show Menu
+2: Add Item to cart
+3: Remove item from cart
+4: View Cart
+5: Checkout
+6: Cancel Order
+Please select an option (1-6): 3
+Please select an item from your cart: turkey sandwich
+How many turkey sandwichs would you like to remove? Type 0 to cancel: 1
+Removed 1 turkey sandwich(s) from your cart.
+Options:
+1: Show Menu
+2: Add Item to cart
+3: Remove item from cart
+4: View Cart
+5: Checkout
+6: Cancel Order
+Please select an option (1-6): 4
+
+--- YOUR ORDER ---
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+turkey* sandwich*: $5.25
+deuterium oxide: $785.50
+Items: 34
+
+Options:
+1: Show Menu
+2: Add Item to cart
+3: Remove item from cart
+4: View Cart
+5: Checkout
+6: Cancel Order
+Please select an option (1-6): 5
+
+===== Oops All Poison RECEIPT =====
+Victim: Kris
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+32 ounces of espresso: $64.00
+turkey* sandwich*: $5.25
+deuterium oxide: $785.50
+Subtotal: $2838.75
+Discount: $425.81
+Tax: $141.94
+Total: $2554.88
+
+Thanks for shopping at Oops All Poison! Have an great rest of your day! Or not. That's not really within our control.
