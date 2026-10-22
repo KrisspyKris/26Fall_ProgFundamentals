@@ -79,7 +79,6 @@ cur.execute("""
         PRIMARY KEY (id) )
 """)
 #Added new subtitle column for IMMERSION AND WORLDBUILDING purposes.
-print("Table created.")
 
 #Adds the first row manually as per assignment instructions. Has no ratings.
 cur.execute("""
@@ -103,7 +102,6 @@ books = [
 #Adds the rest of the books to the table.
 cur.executemany("INSERT INTO books VALUES (?, ?, ?, ?, ?, ?, ?, ?)", books)
 conn.commit() # save the changes to the file
-print("Books added.")
 
 #Main Loop. This is for the command menu.
 while True:
